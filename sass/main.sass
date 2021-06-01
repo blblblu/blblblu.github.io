@@ -1,0 +1,126 @@
+@import 'normalize'
+@import 'skeleton'
+
+@import '../lib/bootstrap/scss/bootstrap-grid'
+
+$highlight: #63b3e5
+$bg-sidebar: #f8f8f8
+$bg-content: #f2f2f2
+
+html,
+body
+  display: flex
+  flex-direction: column
+  height: 100%
+
+html
+  font-size: 62.5%
+
+body
+  background-color: $bg-sidebar
+  font-weight: 200
+
+  font-size: 1.5em
+  line-height: 1.6
+  font-weight: 400
+  font-family: 'Raleway', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif
+  color: #222
+
+  > *
+    flex-shrink: 0
+
+#all
+  width: 100%
+
+#sidebar
+  //@media (min-width: 576px)
+  //@media (min-width: 768px)
+    //height: 100%
+    //min-height: 100vh
+
+  a
+    text-shadow: -2px 2px 0 $bg-sidebar, -1px 2px 0 $bg-sidebar, 0 2px 0 $bg-sidebar, 1px 2px 0 $bg-sidebar, 2px 2px 0 $bg-sidebar, 3px 2px 0 $bg-sidebar
+
+  h1
+    font-size: 250%
+    padding-top: 1.2rem
+
+    a
+      border-bottom: 0
+
+      &:hover
+        border-bottom: 2px dotted $highlight
+        color: inherit
+
+a
+  border-bottom: 1px dotted $highlight
+  color: inherit
+  text-decoration: none
+  text-shadow: -2px 2px 0 $bg-content, -1px 2px 0 $bg-content, 0 2px 0 $bg-content, 1px 2px 0 $bg-content, 2px 2px 0 $bg-content, 3px 2px 0 $bg-content
+
+  &:hover
+    color: $highlight
+
+#sidebar,
+.content
+  padding-bottom: 3rem
+  padding-left: 4rem
+  padding-right: 4rem
+  padding-top: 1.5rem
+
+.content
+  background-color: $bg-content
+  @media (min-width: 768px)
+    height: 100%
+    min-height: 100vh
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+  font-family: 'Poiret One', 'Raleway', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif
+
+#social
+  display: flex
+  justify-content: left
+  list-style: none
+  margin: 0
+  margin-bottom: 2.5rem
+  padding: 0
+  
+  .entry
+    margin: 0
+    margin-right: 6%
+    padding: 0
+    white-space: nowrap
+
+.portfolio-image
+  background-color: #444
+  border: 0
+  box-shadow: 0 0 0.5rem #aaa
+
+.portfolio-grid-item
+  margin: 0
+  padding: 2rem
+
+  a.image
+    border: 0
+
+#single
+  h1
+    text-transform: lowercase
+
+  img
+    box-sizing: border-box
+    max-height: 90vh
+    max-width: 100%
+
+#navlinks
+  list-style: none
+  font-weight: 400
+
+  .current
+    font-weight: 600

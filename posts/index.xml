@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sebastian Schulz</title>
+    <link>https://sesc.me/posts/</link>
+    <description>Recent content in Posts on Sebastian Schulz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Aug 2017 22:21:43 +0200</lastBuildDate>
+    
+	<atom:link href="https://sesc.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Konrad Wolf</title>
+      <link>https://sesc.me/posts/009-konrad-wolf/</link>
+      <pubDate>Wed, 16 Aug 2017 22:21:43 +0200</pubDate>
+      
+      <guid>https://sesc.me/posts/009-konrad-wolf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Babelsberg</title>
+      <link>https://sesc.me/posts/008-babelsberg/</link>
+      <pubDate>Wed, 16 Aug 2017 12:58:53 +0200</pubDate>
+      
+      <guid>https://sesc.me/posts/008-babelsberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aisling Concept</title>
+      <link>https://sesc.me/posts/007-aisling-concept/</link>
+      <pubDate>Wed, 16 Aug 2017 11:41:04 +0200</pubDate>
+      
+      <guid>https://sesc.me/posts/007-aisling-concept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glitch_4</title>
+      <link>https://sesc.me/posts/006-glitch_4/</link>
+      <pubDate>Wed, 16 Aug 2017 11:38:13 +0200</pubDate>
+      
+      <guid>https://sesc.me/posts/006-glitch_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glitch_15</title>
+      <link>https://sesc.me/posts/005-glitch_15/</link>
+      <pubDate>Wed, 16 Aug 2017 11:30:10 +0200</pubDate>
+      
+      <guid>https://sesc.me/posts/005-glitch_15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glitch_1</title>
+      <link>https://sesc.me/posts/004-glitch_2/</link>
+      <pubDate>Wed, 16 Aug 2017 11:21:51 +0200</pubDate>
+      
+      <guid>https://sesc.me/posts/004-glitch_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glitch_0</title>
+      <link>https://sesc.me/posts/003-glitch_0/</link>
+      <pubDate>Wed, 16 Aug 2017 11:21:49 +0200</pubDate>
+      
+      <guid>https://sesc.me/posts/003-glitch_0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glitch_animation</title>
+      <link>https://sesc.me/posts/002-glitch_animation/</link>
+      <pubDate>Wed, 16 Aug 2017 11:19:33 +0200</pubDate>
+      
+      <guid>https://sesc.me/posts/002-glitch_animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cat</title>
+      <link>https://sesc.me/posts/001-cat/</link>
+      <pubDate>Wed, 16 Aug 2017 11:14:56 +0200</pubDate>
+      
+      <guid>https://sesc.me/posts/001-cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffee Machine</title>
+      <link>https://sesc.me/posts/000-coffee-machine/</link>
+      <pubDate>Wed, 16 Aug 2017 11:07:30 +0200</pubDate>
+      
+      <guid>https://sesc.me/posts/000-coffee-machine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

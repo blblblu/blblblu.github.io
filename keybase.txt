@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/bliu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sesc.me
+  * I am bliu (https://keybase.io/bliu) on keybase.
+  * I have a public key ASAa9iI5cGf3seM9Ba5wJplGCeWra7jXSMf1jbQmjEvZVgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01201af622397067f7b1e33d05ae7026994609e5ab6bb8d748c7f58db4268c4bd9560a",
+            "host": "keybase.io",
+            "kid": "01201af622397067f7b1e33d05ae7026994609e5ab6bb8d748c7f58db4268c4bd9560a",
+            "uid": "474060a71b6b8a6a9656f9f28c014019",
+            "username": "bliu"
+        },
+        "service": {
+            "hostname": "sesc.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1472147236,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472147318,
+        "hash": "1603ec7eedd3a2ed480077a870510bd41c495976de033c2d367b15d5d8fd3dc4bb4de0d189a58bdff84b49c25107ac3f6bdcf6236b3ad21a88566b0091272f72",
+        "seqno": 601620
+    },
+    "prev": "b6eb0587f923814781767ee1c64bc4b7830e82179d3d14513f32f47bb2fff773",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGvYiOXBn97HjPQWucCaZRgnlq2u410jH9Y20JoxL2VYKp3BheWxvYWTFAux7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMWFmNjIyMzk3MDY3ZjdiMWUzM2QwNWFlNzAyNjk5NDYwOWU1YWI2YmI4ZDc0OGM3ZjU4ZGI0MjY4YzRiZDk1NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWFmNjIyMzk3MDY3ZjdiMWUzM2QwNWFlNzAyNjk5NDYwOWU1YWI2YmI4ZDc0OGM3ZjU4ZGI0MjY4YzRiZDk1NjBhIiwidWlkIjoiNDc0MDYwYTcxYjZiOGE2YTk2NTZmOWYyOGMwMTQwMTkiLCJ1c2VybmFtZSI6ImJsaXUifSwic2VydmljZSI6eyJob3N0bmFtZSI6InNlc2MubWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3MjE0NzIzNiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcyMTQ3MzE4LCJoYXNoIjoiMTYwM2VjN2VlZGQzYTJlZDQ4MDA3N2E4NzA1MTBiZDQxYzQ5NTk3NmRlMDMzYzJkMzY3YjE1ZDVkOGZkM2RjNGJiNGRlMGQxODlhNThiZGZmODRiNDljMjUxMDdhYzNmNmJkY2Y2MjM2YjNhZDIxYTg4NTY2YjAwOTEyNzJmNzIiLCJzZXFubyI6NjAxNjIwfSwicHJldiI6ImI2ZWIwNTg3ZjkyMzgxNDc4MTc2N2VlMWM2NGJjNGI3ODMwZTgyMTc5ZDNkMTQ1MTNmMzJmNDdiYjJmZmY3NzMiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAHdsuZTkK8D6UT4AN7fYgNzmQ7EL0tEKEjRwf5AthzXaQnXh3dWlaxk2ZcyKehb4twHyDQPd9+hLqvt6J2wbTCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPL65t2nGoEvHy/pHO+ula1F+YUj/w6R5ypYEqfFwZt8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bliu
+
+==================================================================
